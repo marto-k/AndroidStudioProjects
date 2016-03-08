@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/build/intermediates/res/merged/debug/layout/main_list_item.xml",
+        "source": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/src/main/res/layout/main_list_item.xml"
+    }
+]

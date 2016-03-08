@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/src/main/res/values/countries.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/src/main/res/values/countries.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 53,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/SwipeMenuListView_AS/ListViewAdvanced/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]
